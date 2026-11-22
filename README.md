@@ -271,8 +271,36 @@ SC-677-805-Deep-Learning-for-Data-Analytics/
 ├── มคอ.3 รายละเอียดของรายวิชา (Course Specification).pdf
 ├── EDM-SQL1.pdf               # SQL พื้นฐาน (Enterprise Data Management)
 ├── EDM-SQL2.pdf               # SQL JOIN
+├── Lab/                       # งานปฏิบัติการ
+│   └── DLDA_Lab0_NumPy.ipynb
+├── Slide/                     # สไลด์บรรยายและเอกสารประกอบ
+│   ├── 0_logistics.pdf
+│   ├── 1_linear_regression.pdf
+│   ├── 2_svm.pdf
+│   ├── 3_decision_tree.pdf
+│   ├── week1_handout.pdf
+│   └── Screenshot *.png       # คำตอบแบบฝึกเติมคำใน handout
 └── Essential-Data-Science/    # repo แยก ไม่ถูก track ใน repo นี้
 ```
+
+### Lab
+
+| Lab | หัวข้อ | สถานะ |
+| :---: | --- | :---: |
+| 0 | [NumPy for Machine Learning](Lab/DLDA_Lab0_NumPy.ipynb): สร้าง array และรูปร่าง, broadcasting, axis, boolean mask, unique / argmax / argsort, พีชคณิตเชิงเส้น, การสุ่ม | ✅ 136 / 136 |
+
+### Slide
+
+| ไฟล์ | หัวข้อ |
+| --- | --- |
+| [0_logistics.pdf](Slide/0_logistics.pdf) | เป้าหมายรายวิชาและภาพรวม Machine Learning |
+| [1_linear_regression.pdf](Slide/1_linear_regression.pdf) | Linear regression |
+| [2_svm.pdf](Slide/2_svm.pdf) | Support vector machine |
+| [3_decision_tree.pdf](Slide/3_decision_tree.pdf) | Decision tree |
+| [week1_handout.pdf](Slide/week1_handout.pdf) | ใบงานคาบที่ 1: ภาพรวมรายวิชาและทบทวน Machine Learning |
+| [Screenshot 2026-11-17](<Slide/Screenshot 2026-11-17 112029.png>) · [Screenshot 2026-11-20](<Slide/Screenshot 2026-11-20 141000.png>) | คำตอบแบบฝึกเติมคำใน handout สัปดาห์ที่ 1 |
+
+### เอกสารอื่น
 
 | ไฟล์ / โฟลเดอร์ | คำอธิบาย |
 | --- | --- |
